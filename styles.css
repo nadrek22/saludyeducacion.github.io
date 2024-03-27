@@ -2,14 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    max-width:460px;
+    max-width:430px;
    background:linear-gradient(to top, #F48FB1, #FFEBEE);    
 }
 header {
     background-color: #cecdcb;
     padding: 20px;
     text-align: left;
-    max-width:460px;
+    max-width:430px;
 }
 .logo img {
    margin:0;
